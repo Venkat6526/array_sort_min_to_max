@@ -1,0 +1,23 @@
+{
+  "name": "array_sort_min_to_max",
+  "version": "1.0.1",
+  "description": "sort array min to max",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array min to max",
+    "array sort",
+    "min",
+    "to",
+    "max",
+    "increament order"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkat6526/array_sort_min_to_max.git"
+  },
+  "author": "Venkat6526",
+  "license": "ISC"
+}
